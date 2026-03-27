@@ -11,8 +11,8 @@
 # ------------------------------
 # 🔑 CONFIG
 # ------------------------------
-APIFY_TOKEN = "YOUR_APIFY_TOKEN"
-SUPABASE_DB_URL = "YOUR_SUPABASE_DB_URL"
+APIFY_TOKEN = "apify_api_MU6puz00bPQUjC887u7FLq1w0DfOfI0kUxTE"
+SUPABASE_DB_URL = "https://amyhlrsonwdkvgbnvnyp.supabase.co"
 VIN_API_KEY = "YOUR_VIN_API_KEY"  # e.g. NHTSA or paid VIN API
 
 # ------------------------------
