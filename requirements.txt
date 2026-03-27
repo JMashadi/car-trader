@@ -6,3 +6,4 @@ scikit-learn
 streamlit
 sqlalchemy
 psycopg2-binary
+altair==4.2.2
