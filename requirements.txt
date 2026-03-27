@@ -1,0 +1,8 @@
+apify-client
+pandas
+numpy
+requests
+scikit-learn
+streamlit
+sqlalchemy
+psycopg2-binary
